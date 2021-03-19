@@ -1,5 +1,5 @@
 import json
-import requests
+import lib.requests
 from bin.users.game_token import Token
 
 

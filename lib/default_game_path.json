@@ -1,1 +1,1 @@
-{"linux": "~/.minecraft", "windows": "%APPDATA%\\.minecraft", "darwin": "~/.minecraft"}
+{"linux": "~/.minecraft", "win32": "%APPDATA%/.minecraft", "darwin": "~/.minecraft"}
